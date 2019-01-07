@@ -8,4 +8,4 @@
 
 #CNN_LSTM codes our training model
 
-#The model available can still be easily used to analyze videos by removing facial or lip segmenting software.
+#The model available can still be easily used to analyze videos for other purposes by removing facial or lip segmenting software.
