@@ -6,4 +6,6 @@
 
 #VisualizeLip is a combination of VideoToImageConverter and mouthV3 in order to easily convert videos in the dataset to input data consisting of the pictures of lip segments
 
+#CNNLSTM codes our overall model
+
 #The model available can still be easily used to analyze videos by removing facial or lip segmenting software.
