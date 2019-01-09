@@ -14,6 +14,8 @@
 
 #We wanted convolutional neural networks to have accurate image recognition but due to low initial accuracy decided to implement primarily LSTMs. This was because they could use previous frame memory and recognize overall movement of the lip to determine phoneme classification much more accuractely than single frame image analysis.
 
+# Files
+
 #VisualizeLip is a combination of VideoToImageConverter and mouthV3 in order to easily convert videos in the dataset to input data consisting of the pictures of lip segments
 
 #CNN_LSTM codes our training model
