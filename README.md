@@ -1,6 +1,6 @@
 # AutomatedLipReader
 
-#This project was completed last year by me and 2 peers and being uploaded now for viewing purposes. The project hoped to utilize a Convolutional LSTM model to analyze phenomes through visual analysis of lip movement. Overall our test results were quite strong with a testing accuracy of 85% on classifying phonemes, consistent with cross-validation and showing no obvious signs of underfitting or overfitting. However, a much larger and standardized model will be needed to allow the model to more accurately classify phonemes during full speech within words.
+#This project was completed last year by me and 2 peers and being uploaded now for viewing purposes. The project hoped to utilize a Convolutional Neural Network-LSTM model to analyze phenomes through visual analysis of lip movement. Overall our test results were quite strong with a testing accuracy of 85.3% on classifying phonemes, consistent with cross-validation of 86.0% and showing no obvious signs of underfitting or overfitting. However, a much larger and standardized model will be needed to allow the model to more accurately classify phonemes during actual speech within words.
 
 # Data Collection
 
